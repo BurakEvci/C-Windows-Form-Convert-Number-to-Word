@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FaturaUygulama/1.0.0": {
+        "runtime": {
+          "FaturaUygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaturaUygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
